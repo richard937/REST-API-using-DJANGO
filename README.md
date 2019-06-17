@@ -1,2 +1,2 @@
 # REST-API-using-DJANGO
-This is a RESTful API, which i have made using DJANGO framework
+This is some RESTful APIs, which i have made using DJANGO framework
